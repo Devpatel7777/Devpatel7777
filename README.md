@@ -1,13 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Hi+I'm+Dev+Patel;AI+%2F+GenAI+Engineer;LangChain+%7C+LangGraph+%7C+RAG+Expert;Building+Production-Ready+AI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Hi+I'm+Dev+Patel;AI+%2F+GenAI+Engineer;Multi-Agent+Swarms+%7C+Self-Healing+AI;Building+2028-Grade+Autonomous+Systems)](https://git.io/typing-svg)
 
 <p align="center">
-  <b>AI/ML Engineer &bull; Generative AI Developer &bull; Data Scientist</b>
+  <b>AI/ML Engineer &bull; Generative AI Systems Developer &bull; Data Scientist</b>
 </p>
 
 <p align="center">
-  Building intelligent, production-ready systems bridging Large Language Models, Multi-Agent Workflows, and Data Engineering.
+  Architecting next-generation autonomous multi-agent swarms, self-healing code execution engines, and production data intelligence.
 </p>
 
 </div>
@@ -16,10 +16,10 @@
 
 ### About Me
 
-- Specialized in building **production-grade Generative AI systems**, **agentic workflows**, and **RAG pipelines**.
-- Experience designing **FastAPI microservices** that safely translate natural language into deterministic data queries.
-- Strong foundation in **Machine Learning pipelines**, statistical anomaly detection, and data processing with **Pandas** and **SQL**.
-- Passionate about transforming complex business datasets into clear, interactive decision tools using **Streamlit** and **Power BI**.
+- Specializing in **autonomous multi-agent swarms**, **self-healing code execution**, and **production GenAI systems**.
+- Designer of **AutoSwarm-AI**: a 4-agent state machine with isolated sandboxed execution, AST security guardrails, and automated traceback reflection.
+- Strong background in **FastAPI microservices**, statistical anomaly detection, and end-to-end data pipelines with **Pandas** and **SQL**.
+- Passionate about high-reliability AI systems that eliminate arbitrary execution risks and self-heal runtime errors.
 - Contact: **devpatel846211@gmail.com**
 
 ---
@@ -30,12 +30,12 @@
 
 | Domain | Key Skills & Technologies |
 |---|---|
-| **Generative AI & LLMs** | LangChain, LangGraph, Groq Cloud, Google Gemini, Prompt Engineering, ReAct Framework |
-| **RAG & Information Retrieval** | Semantic Search, Document Chunking, Embedding Models, Vector Stores |
-| **Backend & API Engineering** | FastAPI, Pydantic Schema Validation, RESTful APIs, Python 3.11+, Uvicorn |
+| **Autonomous Multi-Agent Systems** | Multi-Agent Orchestration, Self-Healing Loops, AST Guardrails, LangGraph, Tool-Calling |
+| **Generative AI & LLMs** | Groq Cloud, Google Gemini, Prompt Engineering, Structured JSON Planning, ReAct Agents |
+| **RAG & Information Retrieval** | Semantic Vector Search, Chunking Strategies, Document Embeddings, Vector Stores |
+| **Backend & API Engineering** | FastAPI, Pydantic Schema Enforcement, Subprocess Sandbox Isolation, Python 3.10+, Uvicorn |
 | **Machine Learning & Analytics** | Scikit-Learn, Statistical Anomaly Detection (IQR), Pandas, NumPy, SQL |
-| **Data Visualization & UI** | Streamlit, Power BI Dashboards, Matplotlib, Seaborn |
-| **Development & DevOps** | Git, Modular Architecture, Pytest Unit Testing, Virtual Environments |
+| **Testing & Reliability** | Pytest, Unittest Suites, Automated Traceback Reflection, Modular Architecture |
 
 </div>
 
@@ -72,18 +72,18 @@
 
 | Project | Highlights & Architecture | Links |
 |---|---|---|
+| **AutoSwarm-AI** *(Flagship 2028)* | Autonomous multi-agent swarm (Architect, Coder, Critic, Sandbox) with AST static security guardrails and automated traceback reflection loops that self-heal code bugs in real-time. | [Repository](https://github.com/Devpatel7777/AutoSwarm-AI) |
 | **AI Support Ticket Analytics** | Production-ready FastAPI + Groq LLM platform translating NL questions into safe JSON query plans without arbitrary code execution; features IQR anomaly detection & Streamlit UI. | [Repository](https://github.com/Devpatel7777/AI-Engineer-Assessment-Dev-Patel) |
 | **AI Travel Planner Agent** | Autonomous multi-agent trip planner built with LangChain ReAct framework, Groq LLM, and real-time Google Serper API search for live weather, hotels, and itineraries. | [Repository](https://github.com/Devpatel7777/AI-Travel-Planner) |
 | **AI Learning Coach (RAG)** | Multi-PDF conversational assistant leveraging LangGraph agentic workflows, Google Gemini Embeddings, intelligent text chunking, and semantic vector retrieval. | [Repository](https://github.com/Devpatel7777/Gen_AI) |
-| **Crop Recommendation System** | End-to-end Machine Learning classification app predicting optimal crops based on 7 soil and climatic factors across 22 crop categories with real-time Streamlit inference. | [Repository](https://github.com/Devpatel7777/ML-Crop-Recommendation) |
 
 ---
 
 ### Currently Focusing On
 
-- **Advanced Multi-Agent Orchestration:** Complex state machines and human-in-the-loop workflows using LangGraph.
+- **Advanced Multi-Agent Orchestration:** Complex state machines, autonomous self-debugging, and swarm coordination.
 - **Enterprise Vector Search:** Production indexing with ChromaDB and Pinecone.
-- **MLOps & Deployment:** Docker containerization, CI/CD pipelines, and model evaluation metrics.
+- **MLOps & Edge Deployment:** Model quantization (GGUF/AWQ), low-latency inference, and CI/CD testing.
 
 ---
 
