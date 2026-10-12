@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- Top Dynamic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,25:0F2027,50:203A43,75:1E3A5F,100:0B0F19&height=200&section=header&text=Dev%20Patel&fontSize=44&fontColor=36D1DC&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Autonomous%20AI%20Agent%20Builder%20%E2%80%A2%20Data%20Scientist&descSize=16&descAlignY=58&descColor=94A3B8" width="100%" alt="Dev Patel Banner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devpatel7777/Devpatel7777/main/assets/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devpatel7777/Devpatel7777/main/assets/light.svg" />
+  <img alt="Dev Patel banner" src="https://raw.githubusercontent.com/Devpatel7777/Devpatel7777/main/assets/dark.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -26,53 +29,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide:rocket.svg?color=%2336D1DC" valign="middle" alt="Rocket icon"/> Featured Flagship Project
+### <img width="22" height="22" src="https://api.iconify.design/lucide:rocket.svg?color=%2336D1DC" valign="middle" alt="Rocket icon"/> Featured Project
 
 <table>
 <tr>
 <td width="100%">
 
-### 🐝 **AutoSwarm-AI — Autonomous Multi-Agent Data Intelligence &amp; Self-Correcting RAG**
+**AutoSwarm-AI — Autonomous Multi-Agent Data Intelligence &amp; Self-Correcting RAG**
 
 A **Google-grade flagship** platform — an autonomous multi-agent state machine orchestrating **Planner DAG, Sandboxed Pandas Interpreter, Hybrid Vector RAG, and Critic Guard** to eliminate mathematical hallucinations and ground complex inquiries into SEC Form 10-K filings and Master Services Agreements with **98.4% RAGAS Faithfulness**!
 
 <br/>
 
-[![Status](https://img.shields.io/badge/status-live%20production-36D1DC?style=for-the-badge)](https://auto-swarm-ai.vercel.app/)
-[![Type](https://img.shields.io/badge/type-Multi--Agent%20Swarm-5B86E5?style=for-the-badge)](https://github.com/Devpatel7777/AutoSwarm-AI)
-[![Stack](https://img.shields.io/badge/stack-LangGraph%20%7C%20FastAPI%20%7C%20Pandas%20%7C%20Chroma%20%7C%20RAGAS-0F2027?style=for-the-badge)](https://github.com/Devpatel7777/AutoSwarm-AI)
+![Status](https://img.shields.io/badge/status-active-36D1DC?style=for-the-badge)
+![Type](https://img.shields.io/badge/type-AI%20Agent-5B86E5?style=for-the-badge)
+![Stack](https://img.shields.io/badge/stack-LangGraph%20%7C%20FastAPI%20%7C%20Pandas%20%7C%20Hybrid%20RAG%20%7C%20RAGAS-0F2027?style=for-the-badge)
 [![Live Studio](https://img.shields.io/badge/Live%20Studio-auto--swarm--ai.vercel.app-00E5FF?style=for-the-badge&logo=vercel&logoColor=white)](https://auto-swarm-ai.vercel.app/)
 
 <br/>
 
 🚀 **[Click Here to Launch Live Interactive Studio](https://auto-swarm-ai.vercel.app/)** &bull; 📦 **[Explore Repository](https://github.com/Devpatel7777/AutoSwarm-AI)**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-
-**⚡ EdgeSLM-MLOps**
-
-Edge-deployed quantized Small Language Model (**INT4**, 75% memory saved, <30ms latency) featuring continuous statistical drift monitors (**PSI $\ge$ 0.25**, KS-test) and automated retraining pipelines.
-
-![Type](https://img.shields.io/badge/Edge%20AI-MLOps-5B86E5?style=flat-square)
-[📦 View Repository](https://github.com/Devpatel7777/EdgeSLM-MLOps)
-
-</td>
-<td width="50%">
-
-**📈 CausalBI-AI**
-
-Autonomous causal inference and decision intelligence engine debunking spurious correlation using **Average Treatment Effects (ATE)**, confounder control, and counterfactual What-If simulation.
-
-![Type](https://img.shields.io/badge/Causal%20Inference-Analytics-36D1DC?style=flat-square)
-[📦 View Repository](https://github.com/Devpatel7777/CausalBI-AI)
 
 </td>
 </tr>
@@ -86,29 +62,16 @@ Autonomous causal inference and decision intelligence engine debunking spurious 
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,fastapi,docker,git,github,linux,vscode,mysql,postgres,postman&theme=dark" alt="Tech stack icons" />
 </div>
 
-<br/>
-
-<div align="center">
-
-![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=database&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide:flame.svg?color=%2336D1DC" valign="middle" alt="Flame icon"/> Currently Exploring
 
 <div align="center">
 
-![Multi-Agent Swarms](https://img.shields.io/badge/-Autonomous%20Agent%20Swarms-1a1a2e?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-1a1a2e?style=for-the-badge)
+![Multi-Agent Swarms](https://img.shields.io/badge/-Multi--Agent%20Swarms-1a1a2e?style=for-the-badge)
 ![Quantized Edge SLMs](https://img.shields.io/badge/-Quantized%20Edge%20SLMs-1a1a2e?style=for-the-badge)
-![Causal Machine Learning](https://img.shields.io/badge/-Causal%20Machine%20Learning-1a1a2e?style=for-the-badge)
-![Self-Correcting RAG](https://img.shields.io/badge/-Self--Correcting%20RAG-1a1a2e?style=for-the-badge)
+![Causal AI](https://img.shields.io/badge/-Causal%20Inference-1a1a2e?style=for-the-badge)
 
 </div>
 
@@ -118,22 +81,33 @@ Autonomous causal inference and decision intelligence engine debunking spurious 
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
+<!-- Streak stats -->
 <picture>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devpatel7777&theme=tokyonight&hide_border=true&border_radius=8&stroke=36D1DC&ring=36D1DC&fire=36D1DC" alt="GitHub streak stats" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devpatel7777&theme=tokyonight&background=0A101F&border=22314d&stroke=36D1DC&ring=36D1DC&fire=F09819&currStreakNum=36D1DC&sideNums=c9d6e8&sideLabels=94A3B8&dates=5b6b85&hide_border=true" alt="GitHub streak stats" width="100%" />
 </picture>
 
 <br/><br/>
 
-<!-- Stats & Languages Grid -->
-<img src="https://github-readme-stats.vercel.app/api?username=Devpatel7777&show_icons=true&hide_rank=true&title_color=36D1DC&icon_color=5B86E5&text_color=c9d6e8&bg_color=0A101F&border_color=22314d&hide_border=true" alt="GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devpatel7777&layout=compact&title_color=36D1DC&text_color=c9d6e8&bg_color=0A101F&border_color=22314d&langs_count=8&hide_border=true" alt="Top languages" width="49%" />
+<!-- Stats and top langs grid -->
+<img src="https://github-readme-stats.vercel.app/api?username=Devpatel7777&show_icons=true&hide_rank=true&title_color=F09819&icon_color=36D1DC&text_color=c9d6e8&bg_color=0A101F&border_color=22314d&hide_border=true" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devpatel7777&layout=compact&title_color=F09819&text_color=c9d6e8&bg_color=0A101F&border_color=22314d&langs_count=8&hide_border=true" alt="Top languages" width="49%" />
 
 <br/><br/>
 
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Devpatel7777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
+
+<br/><br/>
+
+<!-- Followers and Profile Views badges -->
 <img src="https://img.shields.io/github/followers/Devpatel7777?label=Followers&style=for-the-badge&color=36D1DC&labelColor=0A101F&logo=github&logoColor=white" alt="GitHub followers" />
 &nbsp;&nbsp;
 <img src="https://hits.sh/github.com/Devpatel7777.svg?label=Profile%20Views&color=36D1DC&labelColor=0A101F&style=for-the-badge" alt="Profile views" />
+
+<br/><br/>
+
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devpatel7777&theme=tokyo-night&bg_color=0A101F&color=36D1DC&line=F09819&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
@@ -158,6 +132,7 @@ Autonomous causal inference and decision intelligence engine debunking spurious 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=36D1DC)](mailto:devpatel846211@gmail.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devpatel)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=5B86E5)](https://github.com/Devpatel7777)&nbsp;&nbsp;
 [![AutoSwarm Studio](https://img.shields.io/badge/AutoSwarm%20Studio-0A101F?style=for-the-badge&logo=vercel&logoColor=00E5FF)](https://auto-swarm-ai.vercel.app/)
 
@@ -167,5 +142,4 @@ Autonomous causal inference and decision intelligence engine debunking spurious 
 
 <br/>
 
-<!-- Wavy Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,25:5B86E5,50:36D1DC,75:F09819,100:FF512F&height=120&section=footer" alt="footer" />
