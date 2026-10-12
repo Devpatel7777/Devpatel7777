@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devpatel7777/Devpatel7777/main/assets/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devpatel7777/Devpatel7777/main/assets/light.svg" />
-  <img alt="Dev Patel banner" src="https://raw.githubusercontent.com/Devpatel7777/Devpatel7777/main/assets/dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg" />
+  <img alt="Dev Patel banner" src="./assets/dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -94,20 +94,10 @@ A **Google-grade flagship** platform — an autonomous multi-agent state machine
 
 <br/><br/>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Devpatel7777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
-
-<br/><br/>
-
 <!-- Followers and Profile Views badges -->
 <img src="https://img.shields.io/github/followers/Devpatel7777?label=Followers&style=for-the-badge&color=36D1DC&labelColor=0A101F&logo=github&logoColor=white" alt="GitHub followers" />
 &nbsp;&nbsp;
 <img src="https://hits.sh/github.com/Devpatel7777.svg?label=Profile%20Views&color=36D1DC&labelColor=0A101F&style=for-the-badge" alt="Profile views" />
-
-<br/><br/>
-
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devpatel7777&theme=tokyo-night&bg_color=0A101F&color=36D1DC&line=F09819&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
