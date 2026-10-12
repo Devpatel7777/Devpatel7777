@@ -1,164 +1,171 @@
 <div align="center">
 
-<!-- Animated Header Typing SVG -->
-<a href="https://github.com/Devpatel7777">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Dev+Patel+%F0%9F%91%8B;AI+%2F+ML+Engineer+%E2%80%A2+Data+Scientist;Autonomous+Multi-Agent+Swarm+Builder;LangGraph+%7C+Hybrid+RAG+%7C+Edge+MLOps;Building+Production-Grade+AI+Systems" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <b>🎓 Data Science &amp; AI/ML &bull; 🤖 Autonomous AI Agent Builder &bull; ⚙️ MLOps &amp; Data Intelligence Architect</b><br>
-  <i>📍 Gujarat, India &bull; 💻 Coding Data Intelligence into Autonomous Reality</i>
-</p>
-
-<!-- Quick Action Badges -->
-<p align="center">
-  <a href="https://auto-swarm-ai.vercel.app/"><img src="https://img.shields.io/badge/Live%20Studio-AutoSwarm--AI-00E5FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
-  <a href="mailto:devpatel846211@gmail.com"><img src="https://img.shields.io/badge/Email-devpatel846211%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Devpatel7777"><img src="https://img.shields.io/badge/GitHub-Devpatel7777-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+<!-- Top Dynamic Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,25:0F2027,50:203A43,75:1E3A5F,100:0B0F19&height=200&section=header&text=Dev%20Patel&fontSize=44&fontColor=36D1DC&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Autonomous%20AI%20Agent%20Builder%20%E2%80%A2%20Data%20Scientist&descSize=16&descAlignY=58&descColor=94A3B8" width="100%" alt="Dev Patel Banner" />
 
 </div>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 Background in **Data Science & AI/ML**, specializing in **Generative AI systems**, **autonomous agentic workflows**, and **closed-loop MLOps**.
-- 🚀 Creator of **[AutoSwarm-AI](https://auto-swarm-ai.vercel.app/)** — a 4-agent autonomous data intelligence platform with a sandboxed Pandas code interpreter, hybrid vector RAG, and an automated RAGAS hallucination guard (**98.4% faithfulness**).
-- ⚙️ Architect of **[EdgeSLM-MLOps](https://github.com/Devpatel7777/EdgeSLM-MLOps)** — quantized edge Small Language Model (INT4, 75% memory saved, <30ms latency) with continuous statistical drift detection (PSI $\ge 0.25$, KS-test) and automated retraining pipelines.
-- 📊 Architect of **[CausalBI-AI](https://github.com/Devpatel7777/CausalBI-AI)** — causal inference intelligence engine separating correlation from true causation using Average Treatment Effects (ATE) and counterfactual What-If simulation.
-- 🛠️ Strong engineering foundation in **FastAPI microservices**, asynchronous Python, **SQL**, and enterprise data pipelines.
-
----
-
-### 🌟 Featured Flagship Project: AutoSwarm-AI
+<br/>
 
 <div align="center">
-
-#### 🐝 [AutoSwarm-AI: Autonomous Multi-Agent Data Intelligence & Self-Correcting RAG](https://auto-swarm-ai.vercel.app/)
-
-[![Live Demo](https://img.shields.io/badge/Live%20Production%20Studio-auto--swarm--ai.vercel.app-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://auto-swarm-ai.vercel.app/)
-[![LangGraph](https://img.shields.io/badge/Orchestrator-LangGraph%20Swarm-6366F1?style=for-the-badge)](https://github.com/Devpatel7777/AutoSwarm-AI)
-[![Evaluation](https://img.shields.io/badge/RAGAS%20Faithfulness-98.4%25%20Verified-10B981?style=for-the-badge)](https://github.com/Devpatel7777/AutoSwarm-AI)
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI%20Microservice-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=36D1DC&center=true&vCenter=true&width=750&lines=Data+Science+%26+AI%2FML+Engineer;Autonomous+AI+Agent+Builder;Building+AutoSwarm-AI+%E2%80%94+Multi-Agent+RAG+Platform;Architecting+Quantized+Edge+SLMs+%26+MLOps" alt="Typing SVG" />
 </div>
 
-> **The Problem:** LLMs suffer from severe mathematical hallucinations when analyzing tabular business metrics, and cannot cross-reference those numbers with unstructured legal contracts (50-page Master Services Agreements, SEC Form 10-Ks).
-> 
-> **The Solution:** AutoSwarm-AI orchestrates a **4-Agent Collaborative Directed Acyclic Graph (DAG)**:
-> 1. **Planner Agent (LangGraph):** Semantic intent decomposition and DAG task routing.
-> 2. **Data Analyst Agent:** Sandboxed Python/Pandas code interpreter executing real aggregations over enterprise datasets (zero hallucination).
-> 3. **Hybrid Vector RAG:** Dense Cosine Embeddings + Sparse BM25 fused via **Reciprocal Rank Fusion (RRF)** for contract clause discovery.
-> 4. **Critic Guard (RAGAS Reflection Loop):** Self-correcting audit loop guaranteeing 98.4% faithfulness and 0% hallucinated metrics.
-> 
-> 👉 **[Launch Live Studio Web Application 🚀](https://auto-swarm-ai.vercel.app/)**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
 
----
+<p align="center">
+  <em>Data Science &amp; AI/ML · Autonomous AI Agent Builder · Gujarat, India</em>
+</p>
 
-### 💼 Production Engineering Portfolio
+### <img width="22" height="22" src="https://api.iconify.design/lucide:brain.svg?color=%2336D1DC" valign="middle" alt="Brain icon"/> About Me
 
-| Project | Domain | Architecture & Highlights | Links |
-| :--- | :--- | :--- | :--- |
-| **[AutoSwarm-AI](https://auto-swarm-ai.vercel.app/)** | **GenAI & Multi-Agent RAG** | Autonomous 4-agent state machine, sandboxed Pandas interpreter, hybrid vector retrieval (Dense + BM25 with RRF), and RAGAS reflection loop. | [🌐 Live App](https://auto-swarm-ai.vercel.app/) &bull; [📦 Repo](https://github.com/Devpatel7777/AutoSwarm-AI) |
-| **[EdgeSLM-MLOps](https://github.com/Devpatel7777/EdgeSLM-MLOps)** | **Edge AI & MLOps** | Quantized INT4 SLM (<30ms latency, 75% memory compression) paired with real-time statistical drift monitors (PSI $\ge 0.25$, KS-test) and automated retraining. | [📦 Repo](https://github.com/Devpatel7777/EdgeSLM-MLOps) |
-| **[CausalBI-AI](https://github.com/Devpatel7777/CausalBI-AI)** | **Causal Inference & BI** | Causal discovery engine debunking correlation vs. causation using Average Treatment Effects (ATE), confounder adjustment, and counterfactual simulation. | [📦 Repo](https://github.com/Devpatel7777/CausalBI-AI) |
-| **[AI Support Ticket Analytics](https://github.com/Devpatel7777/AI-Engineer-Assessment-Dev-Patel)** | **Enterprise AI & API** | FastAPI + Groq LLM platform translating NL into safe JSON query plans without code execution risks; features IQR anomaly detection & Streamlit UI. | [📦 Repo](https://github.com/Devpatel7777/AI-Engineer-Assessment-Dev-Patel) |
-| **[AI Travel Planner Agent](https://github.com/Devpatel7777/AI-Travel-Planner)** | **Agentic Web Retrieval** | LangChain ReAct agent orchestrating Groq LLM and Google Serper API for real-time web retrieval, hotel filtering, and custom itinerary generation. | [📦 Repo](https://github.com/Devpatel7777/AI-Travel-Planner) |
+- <img width="16" height="16" src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2336D1DC" valign="middle"/> **Data Science &amp; AI/ML** background — advanced machine learning &amp; Generative AI engineering
+- <img width="16" height="16" src="https://api.iconify.design/lucide:bot.svg?color=%2336D1DC" valign="middle"/> Building **[AutoSwarm-AI](https://auto-swarm-ai.vercel.app/)** — an enterprise **Autonomous Multi-Agent Data Intelligence &amp; Self-Correcting RAG** Platform
+- <img width="16" height="16" src="https://api.iconify.design/lucide:sprout.svg?color=%2336D1DC" valign="middle"/> Currently exploring: **LangGraph State Machines**, **Quantized Edge SLMs (INT4)**, and **Causal Machine Learning**
+- <img width="16" height="16" src="https://api.iconify.design/lucide:map-pin.svg?color=%2336D1DC" valign="middle"/> Based in **Gujarat, India**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
 
-### 🛠️ Tech Stack & Tooling
+### <img width="22" height="22" src="https://api.iconify.design/lucide:rocket.svg?color=%2336D1DC" valign="middle" alt="Rocket icon"/> Featured Flagship Project
+
+<table>
+<tr>
+<td width="100%">
+
+### 🐝 **AutoSwarm-AI — Autonomous Multi-Agent Data Intelligence &amp; Self-Correcting RAG**
+
+A **Google-grade flagship** platform — an autonomous multi-agent state machine orchestrating **Planner DAG, Sandboxed Pandas Interpreter, Hybrid Vector RAG, and Critic Guard** to eliminate mathematical hallucinations and ground complex inquiries into SEC Form 10-K filings and Master Services Agreements with **98.4% RAGAS Faithfulness**!
+
+<br/>
+
+[![Status](https://img.shields.io/badge/status-live%20production-36D1DC?style=for-the-badge)](https://auto-swarm-ai.vercel.app/)
+[![Type](https://img.shields.io/badge/type-Multi--Agent%20Swarm-5B86E5?style=for-the-badge)](https://github.com/Devpatel7777/AutoSwarm-AI)
+[![Stack](https://img.shields.io/badge/stack-LangGraph%20%7C%20FastAPI%20%7C%20Pandas%20%7C%20Chroma%20%7C%20RAGAS-0F2027?style=for-the-badge)](https://github.com/Devpatel7777/AutoSwarm-AI)
+[![Live Studio](https://img.shields.io/badge/Live%20Studio-auto--swarm--ai.vercel.app-00E5FF?style=for-the-badge&logo=vercel&logoColor=white)](https://auto-swarm-ai.vercel.app/)
+
+<br/>
+
+🚀 **[Click Here to Launch Live Interactive Studio](https://auto-swarm-ai.vercel.app/)** &bull; 📦 **[Explore Repository](https://github.com/Devpatel7777/AutoSwarm-AI)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+**⚡ EdgeSLM-MLOps**
+
+Edge-deployed quantized Small Language Model (**INT4**, 75% memory saved, <30ms latency) featuring continuous statistical drift monitors (**PSI $\ge$ 0.25**, KS-test) and automated retraining pipelines.
+
+![Type](https://img.shields.io/badge/Edge%20AI-MLOps-5B86E5?style=flat-square)
+[📦 View Repository](https://github.com/Devpatel7777/EdgeSLM-MLOps)
+
+</td>
+<td width="50%">
+
+**📈 CausalBI-AI**
+
+Autonomous causal inference and decision intelligence engine debunking spurious correlation using **Average Treatment Effects (ATE)**, confounder control, and counterfactual What-If simulation.
+
+![Type](https://img.shields.io/badge/Causal%20Inference-Analytics-36D1DC?style=flat-square)
+[📦 View Repository](https://github.com/Devpatel7777/CausalBI-AI)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
+
+### <img width="22" height="22" src="https://api.iconify.design/lucide:cpu.svg?color=%2336D1DC" valign="middle" alt="CPU icon"/> Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,fastapi,docker,git,github,linux,vscode,mysql,postgres,postman&theme=dark" alt="Tech stack icons" />
+</div>
+
+<br/>
 
 <div align="center">
 
-#### 🤖 Generative AI & Autonomous Agents
 ![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=database&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20Llama--3.3-F05A28?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS%20Framework-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)
-
-#### 🧠 Machine Learning & Data Science
-![Python](https://img.shields.io/badge/Python%203.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
-#### ⚙️ Backend, Cloud & MLOps
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-2C3E50?style=for-the-badge&logo=gunicorn&logoColor=white)
-
-#### 📊 Data Analytics & Business Intelligence
-![SQL](https://img.shields.io/badge/SQL%20(MySQL/Postgres)-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
 
-### 🔬 Currently Researching & Exploring
-
-- 🛰️ **Multi-Modal Document Parsing:** Extracting tables & graphs from multi-page financial SEC filings via Docling & ColPali.
-- ⚡ **Edge SLM Fine-Tuning & Quantization:** On-device INT4/INT8 deployment of Llama-3.2-3B for sub-30ms offline inferencing.
-- 📈 **Causal Machine Learning:** Double Machine Learning (DML) and instrumental variables for business attribution.
-
----
-
-### 📊 GitHub Activity & Statistics
+### <img width="22" height="22" src="https://api.iconify.design/lucide:flame.svg?color=%2336D1DC" valign="middle" alt="Flame icon"/> Currently Exploring
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devpatel7777&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=00E5FF&icon_color=00E5FF&text_color=94A3B8" alt="Dev Patel GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devpatel7777&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=00E5FF&text_color=94A3B8" alt="Top Languages" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devpatel7777&theme=tokyonight&hide_border=true&border_radius=12&stroke=00E5FF&ring=00E5FF&fire=00E5FF" alt="GitHub Streak" width="97%" />
-</p>
+![Multi-Agent Swarms](https://img.shields.io/badge/-Autonomous%20Agent%20Swarms-1a1a2e?style=for-the-badge)
+![Quantized Edge SLMs](https://img.shields.io/badge/-Quantized%20Edge%20SLMs-1a1a2e?style=for-the-badge)
+![Causal Machine Learning](https://img.shields.io/badge/-Causal%20Machine%20Learning-1a1a2e?style=for-the-badge)
+![Self-Correcting RAG](https://img.shields.io/badge/-Self--Correcting%20RAG-1a1a2e?style=for-the-badge)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
 
-### 🐍 GitHub Contribution Snake
+### <img width="22" height="22" src="https://api.iconify.design/lucide:activity.svg?color=%2336D1DC" valign="middle" alt="Activity icon"/> GitHub Statistics
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devpatel7777/Devpatel7777/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devpatel7777/Devpatel7777/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Devpatel7777/Devpatel7777/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+<!-- GitHub Streak Stats -->
+<picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devpatel7777&theme=tokyonight&hide_border=true&border_radius=8&stroke=36D1DC&ring=36D1DC&fire=36D1DC" alt="GitHub streak stats" width="100%" />
+</picture>
+
+<br/><br/>
+
+<!-- Stats & Languages Grid -->
+<img src="https://github-readme-stats.vercel.app/api?username=Devpatel7777&show_icons=true&hide_rank=true&title_color=36D1DC&icon_color=5B86E5&text_color=c9d6e8&bg_color=0A101F&border_color=22314d&hide_border=true" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devpatel7777&layout=compact&title_color=36D1DC&text_color=c9d6e8&bg_color=0A101F&border_color=22314d&langs_count=8&hide_border=true" alt="Top languages" width="49%" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Devpatel7777?label=Followers&style=for-the-badge&color=36D1DC&labelColor=0A101F&logo=github&logoColor=white" alt="GitHub followers" />
+&nbsp;&nbsp;
+<img src="https://hits.sh/github.com/Devpatel7777.svg?label=Profile%20Views&color=36D1DC&labelColor=0A101F&style=for-the-badge" alt="Profile views" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
 
-### 🤝 Connect With Me
+### <img width="22" height="22" src="https://api.iconify.design/mdi:snake.svg?color=%2336D1DC" valign="middle" alt="Snake icon"/> Contribution Snake
 
 <div align="center">
 
-<a href="mailto:devpatel846211@gmail.com"><img src="https://img.shields.io/badge/Email-devpatel846211%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Devpatel7777"><img src="https://img.shields.io/badge/GitHub-Devpatel7777-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://auto-swarm-ai.vercel.app/"><img src="https://img.shields.io/badge/Flagship%20Project-AutoSwarm--AI-00E5FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Devpatel7777&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<p align="center">
-  <i>"Transforming complex mathematical telemetry and enterprise unstructured documents into self-correcting autonomous intelligence."</i>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devpatel7777/Devpatel7777/output/github-contribution-grid-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devpatel7777/Devpatel7777/output/github-contribution-grid-snake.svg?v=1" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Devpatel7777/Devpatel7777/output/github-contribution-grid-snake.svg?v=1" width="100%" />
+</picture>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
+
+### <img width="22" height="22" src="https://api.iconify.design/lucide:link-2.svg?color=%2336D1DC" valign="middle"/> Connect with Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=36D1DC)](mailto:devpatel846211@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=5B86E5)](https://github.com/Devpatel7777)&nbsp;&nbsp;
+[![AutoSwarm Studio](https://img.shields.io/badge/AutoSwarm%20Studio-0A101F?style=for-the-badge&logo=vercel&logoColor=00E5FF)](https://auto-swarm-ai.vercel.app/)
+
+</div>
+
+<p align="center"><sub>Thanks for stopping by — feel free to explore my repositories.</sub></p>
+
+<br/>
+
+<!-- Wavy Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,25:5B86E5,50:36D1DC,75:F09819,100:FF512F&height=120&section=footer" alt="footer" />
