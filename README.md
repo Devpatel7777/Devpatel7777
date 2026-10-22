@@ -28,7 +28,7 @@
 
 ---
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide:terminal.svg?color=%2300E5FF" valign="middle" alt="Terminal icon"/> Executive Telemetry // About Me
+### 💻 Executive Telemetry // About Me
 
 ```yaml
 Analyst: Dev Patel
@@ -47,7 +47,7 @@ Contact: devpatel846211@gmail.com | +91 93289 77322
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,25:0A84FF,50:5B86E5,75:F09819,100:FF512F&height=3&width=100%" alt="divider" />
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide:sparkles.svg?color=%2300E5FF" valign="middle" alt="Sparkles icon"/> Flagship Showcase // Live Interactive Portfolio
+### 🌟 Flagship Showcase // Live Interactive Portfolio
 
 <table>
 <tr>
@@ -73,7 +73,7 @@ A production-grade, cyberpunk-inspired interactive developer portfolio engineere
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,25:0A84FF,50:5B86E5,75:F09819,100:FF512F&height=3&width=100%" alt="divider" />
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide:folder-git-2.svg?color=%2300E5FF" valign="middle" alt="Projects icon"/> Featured Public Repositories
+### 📦 Featured Public Repositories
 
 | Repository | Domain | Core Stack | Key Engineering Highlights | Source |
 | :--- | :---: | :---: | :--- | :---: |
@@ -92,7 +92,7 @@ A production-grade, cyberpunk-inspired interactive developer portfolio engineere
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,25:0A84FF,50:5B86E5,75:F09819,100:FF512F&height=3&width=100%" alt="divider" />
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide:cpu.svg?color=%2300E5FF" valign="middle" alt="CPU icon"/> Technical Arsenal &amp; Ecosystem
+### ⚡ Technical Arsenal &amp; Ecosystem
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,fastapi,scikitlearn,tensorflow,docker,linux,vscode,postman&theme=dark" alt="Skill Icons" />
@@ -114,7 +114,7 @@ A production-grade, cyberpunk-inspired interactive developer portfolio engineere
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,25:0A84FF,50:5B86E5,75:F09819,100:FF512F&height=3&width=100%" alt="divider" />
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide:activity.svg?color=%2300E5FF" valign="middle" alt="Activity icon"/> GitHub Telemetry &amp; Statistics
+### 📊 GitHub Telemetry &amp; Statistics
 
 <div align="center">
 
@@ -140,7 +140,7 @@ A production-grade, cyberpunk-inspired interactive developer portfolio engineere
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,25:0A84FF,50:5B86E5,75:F09819,100:FF512F&height=3&width=100%" alt="divider" />
 
-### <img width="22" height="22" src="https://api.iconify.design/mdi:snake.svg?color=%2300E5FF" valign="middle" alt="Snake icon"/> Contribution Activity Grid Snake
+### 🐍 Contribution Activity Grid Snake
 
 <div align="center">
 
@@ -154,7 +154,7 @@ A production-grade, cyberpunk-inspired interactive developer portfolio engineere
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,25:0A84FF,50:5B86E5,75:F09819,100:FF512F&height=3&width=100%" alt="divider" />
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide:send.svg?color=%2300E5FF" valign="middle" alt="Send icon"/> Contact &amp; Connect
+### 📬 Contact &amp; Connect
 
 <div align="center">
 
